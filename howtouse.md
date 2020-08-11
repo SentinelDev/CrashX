@@ -1,7 +1,7 @@
 ![banner](https://i.pinimg.com/originals/9e/22/f4/9e22f4f5fdcaa7486b07e84b355ef41d.png)
 
 **Getting Started**  
-CrashX is very eazy to setup, view the steps bellow to find out how to setup! Just execute the script from the source loadstring file. Just paste the loadstring in your script when
+CrashX is very eazy to setup, view the steps bellow to find out how to setup! Execute the script from the source file and you will get a menu for crash there you can find client and ss shutdown.
 desired look at this image for example.
 https://gyazo.com/1e798f9c75d573b3c507e4127b83868c
 
